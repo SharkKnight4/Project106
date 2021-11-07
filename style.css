@@ -1,0 +1,38 @@
+.header_div{
+background-color: rgb(31, 109, 134);
+color: orange;
+font-weight: bold;
+font-family: 'MedievalSharp', cursive;
+}
+.header_div h1{
+    font-size: 100px;
+}
+.header_div h2{
+    font-size: 50px;
+    font-family: 'Balsamiq Sans', cursive;
+}
+.header_div h3{
+    font-family: 'Permanent Marker', cursive;
+}
+body{
+    background-image: url("https://th.bing.com/th/id/R.1d0152d8269d9321cd79397ea3a60087?rik=6ET6e5KJ0g4mlQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fjaqkcSk.jpg&ehk=KbIJHXEuGM6DwLfdBm%2bgY6J%2ffcryFKbscLEZET4Mnmo%3d&risl=&pid=ImgRaw&r=0");
+    background-size: strech;
+}
+.name_div button{
+    letter-spacing: 10px;
+    margin-top: 7px;
+    font-family: 'Rampart One', cursive;
+    color:navy;
+}
+#result_label,#accuracy{
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bolder;
+}
+.copy_right_footer{
+    background-color: rgb(104, 5, 104);
+    color: yellow;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-shadow: 5px 5px 5px rgb(31, 2, 31);
+}
